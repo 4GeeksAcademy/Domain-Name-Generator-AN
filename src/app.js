@@ -18,7 +18,7 @@ let ext = [".com", ".net", ".us", ".es"];
 /** ESTA ES LA DEPURACIÓN DEL CÓDIGO 
  * Uso el For of para moverme sobre los arrays
  * Las variables [p,a,n,e], cada una representan cada elemento del array respectivo.
- * @dominio - aquí sumo las variables hechas en los for porque son los elementos de los arrays y con el método For of se van pasando todos los elementos.
+ * @dominio - en esta variable sumo las variables hechas en el loop porque son los elementos de los arrays y con el método For of se van pasando todos los elementos.
 */
 
 for (let p of pronoun) {
